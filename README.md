@@ -52,6 +52,16 @@ title('Frequency Response of Low Pass FIR Filter');
 ```
 
 # OUTPUT
+
+
+
+
+
+
+
+
+
+
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9263b9d-956f-4f56-9e09-72b3837d98f3" />
 
 
